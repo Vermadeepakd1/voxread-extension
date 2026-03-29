@@ -15,7 +15,7 @@ VoxRead is a Chrome extension that converts webpage content into natural-soundin
 ## Download
 
 Get the extension here:
-https://github.com/YOUR_USERNAME/voxread-extension/releases
+https://github.com/Vermadeepakd1/voxread-extension/releases
 
 ## Installation in Chrome
 
